@@ -1,0 +1,2 @@
+Model,Best Train Acc,Best Val Acc,Best Test Acc,Total Time,Best Hyperparams
+Dropout_CNN+Augmentation+HP_Tuned,0.9771415819173016,0.9970670747258352,0.9482185273159145,1895.477257490158,{'dropout_p': 0.4}

@@ -1,0 +1,19 @@
+#Library needed to run the code
+
+#Core deep learning
+torch
+torchvision
+
+#Data processing
+numpy
+scikit-learn
+pandas
+xlrd
+Pillow
+
+#Visualization
+matplotlib
+rich
+
+#Optional but recommended
+tqdm
